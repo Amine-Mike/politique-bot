@@ -1,0 +1,8 @@
+datasets
+gdown
+pandas
+scikit-learn
+tensorflow
+tf_keras
+torch
+transformers
