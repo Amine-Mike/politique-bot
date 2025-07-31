@@ -1,8 +1,11 @@
 datasets
+fastapi
 gdown
+nltk
 pandas
 scikit-learn
 tensorflow
 tf_keras
 torch
 transformers
+uvicorn
